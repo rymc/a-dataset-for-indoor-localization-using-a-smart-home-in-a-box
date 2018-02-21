@@ -1,4 +1,4 @@
-# a-dataset-for-indoor-localization-using-a-Smart-home-in-a-box
+# A Dataset For Indoor Localization Using A Smart Home in a Box
 This is a dataset originally collected for the paper 'Understanding the Quality of Calibrations for Indoor Localisation'.
 A further description of it is available in the Data in Brief paper A dataset for indoor localization using a smart home in a box. 
 
