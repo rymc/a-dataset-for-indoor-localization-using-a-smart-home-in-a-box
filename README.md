@@ -16,7 +16,7 @@ An annotated dataset of measurements obtained using the Eurvalve Smart Home In a
 # RSSI Distribution Examples
 ![Calibration 1](charts/calibration1rssi.png "Calibration 1")
 
-![Calibration 2](charts/calibration2rssi.png", "Calibration 2")
+![Calibration 2](charts/calibration2rssi.png "Calibration 2")
 
 ![Test Calibration](charts/testrssi.png "Test Calibration")
 
