@@ -29,7 +29,7 @@ If you use this dataset please cite the following papers:
   year = "2018",
   month = "1",
   booktitle = "2018 IEEE 4th World Forum on Internet of Things (WF-IoT 2018)",
-  publisher = "Institute of Electrical and Electronics Engineers (IEEE)",`
+  publisher = "Institute of Electrical and Electronics Engineers (IEEE)",}`
 
 and
 
