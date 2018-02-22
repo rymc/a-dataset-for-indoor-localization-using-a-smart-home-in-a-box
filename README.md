@@ -23,13 +23,13 @@ An annotated dataset of measurements obtained using the Eurvalve Smart Home In a
 # Citation Information
 If you use this dataset please cite the following papers:
 
-@inbook{ee1ba516ee0b4bc5b3a09c6044cf1438,
-title = "Understanding the Quality of Calibrations for Indoor Localisation",
-author = "Ryan McConville and Dallan Byrne and Ian Craddock and Robert Piechocki and James Pope and Raul Santos-Rodriguez",
-year = "2018",
-month = "1",
-booktitle = "2018 IEEE 4th World Forum on Internet of Things (WF-IoT 2018)",
-publisher = "Institute of Electrical and Electronics Engineers (IEEE)",
+  @inbook{ee1ba516ee0b4bc5b3a09c6044cf1438,
+  title = "Understanding the Quality of Calibrations for Indoor Localisation",
+  author = "Ryan McConville and Dallan Byrne and Ian Craddock and Robert Piechocki and James Pope and Raul Santos-Rodriguez",
+  year = "2018",
+  month = "1",
+  booktitle = "2018 IEEE 4th World Forum on Internet of Things (WF-IoT 2018)",
+  publisher = "Institute of Electrical and Electronics Engineers (IEEE)",
 
 and
 
